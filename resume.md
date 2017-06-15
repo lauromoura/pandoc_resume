@@ -1,100 +1,97 @@
-Johnny Coder
-============
+Lauro Moura Maranhão Neto
+=========================
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Software Engineer with experience on mobile application framework development,
+>  Python development, language bindings, also interested in data analysis.
 
 ----
+
+Corporate Experience
+--------------------
+
+2015-Present
+:   **Software Engineer**; Expertise Solutions (Remote work/Recife, Brazil)
+
+    Working on the EFL/Enlightenment projects, mostly on the Javascript and C# bindings and supporting
+    tools.
+
+2008-2015
+:   **Software Engineer**; INDT (Formerly Instituto Nokia de Tecnologia) (Recife, Brazil)
+
+    Worked on Python, WebKit, HTML5 and Windows Phone projects, with activities ranging from API
+    design to QA duties and academic research.
+
+    *Energy-aware prototype*: An academic survey on phone energy consumption and energy saving methods.
+    Developed a prototype app to explore automatically applying some of those actions.
+
+    *HTML5*: Worked together with UX team developing HTML5 prototypes, focusing on wearable tech
+    mockups.
+
+    *WebKitNix*: A minimalist WebKit port. Worked on API Design, setup automated integration
+    environment (buildbot), packaging for distribution. Achieved WebKit committer status.
+
+    *QtWebkit*: A Qt-oriented WebKit port. Bugfixing, packaging Qt5 for the MeeGo platform.
+
+    *PySide*: Python bindings for Qt4, alternative to PyQt. Core development, packaging, QA duties.
+
+2007-2008
+:   **Intern**; INDT (Formerly Instituto Nokia de Tecnologia) (Recife, Brazil)
+
+    Worked on Python libraries for the Maemo Platform, mainly on creating bindings for various system
+    libraries and packaging existing components.
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2013-2018 (expected)
+:   **Bachelor Degree on Information Systems**; Universidade Estácio de Sá (Online)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2002-2010 (unfinished)
+:   **Bachelor Degree on Computer Engineering**; Federal University of Pernambuco - UFPE (Recife)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Technical skills 
+----------------
 
-    *Minor: Awesomeology*
+Prog. Langs
+:   Python, C/C++, Javascript, Elixir, C#
 
-Experience
-----------
+Others
+:   Git, SCRUM, HTML5, WebKit, EFL
 
-**Your Most Recent Work Experience:**
+Github
+:   https://github.com/lauromoura
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Linkedin
+:   http://www.linkedin.com/in/lauromoura
 
-* First item
+Events
+------
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+2017
+:   [**Native Floripa**](https://nativefloripa2017.sched.com/speaker/lauromoura) (Florianópolis, Brazil)
 
-**That Other Job You Had**
+    Accessing native code from Elixir
 
-Also with a short description.
+    Go, C, Go! - Mixing Go and C
 
-Technical Experience
---------------------
+2011
+:   **X Pernambuco Python User Group meeting** (Recife, Brazil)
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+    QML + Python: Using Python and QML for rich interface app development.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+2010
+:   **Python Brasil 6** (Curitiba, Brazil)
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    Python development with MeeGo.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+2007
+:   **PyCon Brasil** (Joinville, Brazil)
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+    Workshop on developing PyMaemo applications.
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <lauromoura@gmail.com> • +55 (81)99223 8818 • \
+> Av. Hélio Falcão, 623, ap 203, ZIP 51021-070, Boa Viagem - Recife, Brazil
