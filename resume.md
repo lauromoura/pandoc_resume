@@ -14,8 +14,8 @@ Corporate Experience
 2015-Present
 :   **Software Engineer**; Expertise Solutions (Remote work/Recife, Brazil)
 
-    Working on the EFL/Enlightenment projects, mostly on the Javascript and C# bindings and supporting
-    tools.
+    Working on the EFL project, mostly on providing bindings for the Javascript
+    and C# languages, wrapping the C libraries.
 
 2008-2015
 :   **Software Engineer**; INDT (Formerly Instituto Nokia de Tecnologia) (Recife, Brazil)
@@ -45,7 +45,7 @@ Corporate Experience
 Education
 ---------
 
-2013-2018 (expected)
+2013-2019 (expected)
 :   **Bachelor Degree on Information Systems**; Universidade Estácio de Sá (Online)
 
 2002-2010 (unfinished)
